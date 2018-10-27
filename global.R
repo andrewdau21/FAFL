@@ -6,6 +6,7 @@ library(DT)
 
 x <- read.csv('./data/FAFL_movies.csv', allowEscapes = TRUE)
 
+
 x$first<- gsub("[^[:alnum:]///' ]", "", x$first)
 x$last <- gsub("[^[:alnum:]///' ]", "", x$last)
 x$MOVIE1 <- gsub("[^[:alnum:]///' ]", "", x$MOVIE1)

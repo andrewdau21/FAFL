@@ -9,6 +9,7 @@ ui <- fluidPage(
       
       # Output: table
      DT::dataTableOutput('table1')
+     
       
     )
   
