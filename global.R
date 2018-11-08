@@ -5,6 +5,8 @@ library(data.table)
 library(shinyjs)
 library(shinyWidgets)
 library(shinydashboardPlus)
+library(sendmailR)
+library(shinyAce)
 
 
 
