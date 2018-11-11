@@ -32,34 +32,34 @@ server <- function(input, output) {
   })
   output$table2 <- DT::renderDataTable({
     if(input$button == "Ally and Chris Singh"){
-      DT::datatable(singh[,c("CATEGORY","PLAYER")], options = list(lengthMenu = c(13, 130), pageLength = 13),rownames=FALSE)
+      DT::datatable(singh[,c("CATEGORY","PLAYER")], options = list(lengthMenu = c(17, 130), pageLength = 17),rownames=FALSE)
     }
     else if(input$button == "Jennifer Richards"){
-      DT::datatable(jennifer[,c("CATEGORY","PLAYER")], options = list(lengthMenu = c(13, 130), pageLength = 13),rownames=FALSE)
+      DT::datatable(jennifer[,c("CATEGORY","PLAYER")], options = list(lengthMenu = c(17, 130), pageLength = 17),rownames=FALSE)
     }
     else if(input$button == "Anthony Fischer"){
-      DT::datatable(fischer[,c("CATEGORY","PLAYER")], options = list(lengthMenu = c(13, 130), pageLength = 13),rownames=FALSE)
+      DT::datatable(fischer[,c("CATEGORY","PLAYER")], options = list(lengthMenu = c(17, 130), pageLength = 17),rownames=FALSE)
     }
     else if(input$button == "Nicole Timmons and Cory Hudson"){
-      DT::datatable(timmons[,c("CATEGORY","PLAYER")],options = list(lengthMenu = c(13, 130), pageLength = 13),rownames=FALSE)
+      DT::datatable(timmons[,c("CATEGORY","PLAYER")],options = list(lengthMenu = c(17, 130), pageLength = 17),rownames=FALSE)
     }
     else if(input$button == "Rachel Sloan"){
-      DT::datatable(sloan[,c("CATEGORY","PLAYER")], options = list(lengthMenu = c(13, 130), pageLength = 13),rownames=FALSE)
+      DT::datatable(sloan[,c("CATEGORY","PLAYER")], options = list(lengthMenu = c(17, 130), pageLength = 17),rownames=FALSE)
     }
     else if(input$button == "Amanda and Andrew Dau"){
-      DT::datatable(dau[,c("CATEGORY","PLAYER")], options = list(lengthMenu = c(13, 130), pageLength = 13),rownames=FALSE)
+      DT::datatable(dau[,c("CATEGORY","PLAYER")], options = list(lengthMenu = c(17, 130), pageLength = 17),rownames=FALSE)
     }
     else if(input$button == "John Richards"){
-      DT::datatable(john[,c("CATEGORY","PLAYER")], options = list(lengthMenu = c(13, 130), pageLength = 13),rownames=FALSE)
+      DT::datatable(john[,c("CATEGORY","PLAYER")], options = list(lengthMenu = c(17, 130), pageLength = 17),rownames=FALSE)
     }
     else if(input$button == "Jamie and Matt Gregg"){
-      DT::datatable(gregg[,c("CATEGORY","PLAYER")], options = list(lengthMenu = c(13, 130), pageLength = 13),rownames=FALSE)
+      DT::datatable(gregg[,c("CATEGORY","PLAYER")], options = list(lengthMenu = c(17, 130), pageLength = 17),rownames=FALSE)
     }
     else if(input$button == "Jeff Lemmons"){
-      DT::datatable(lemmons[,c("CATEGORY","PLAYER")], options = list(lengthMenu = c(13, 130), pageLength = 13),rownames=FALSE)
+      DT::datatable(lemmons[,c("CATEGORY","PLAYER")], options = list(lengthMenu = c(17, 130), pageLength = 17),rownames=FALSE)
     }
     else if(input$button == "Joshua Bates"){
-      DT::datatable(bates[,c("CATEGORY","PLAYER")], options = list(lengthMenu = c(13, 130), pageLength = 13),rownames=FALSE)
+      DT::datatable(bates[,c("CATEGORY","PLAYER")], options = list(lengthMenu = c(17, 130), pageLength = 17),rownames=FALSE)
     }
   })
   output$table3 <- DT::renderDataTable({
