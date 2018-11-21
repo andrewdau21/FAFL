@@ -1,66 +1,146 @@
-Date,FIRST,LAST,CATEGORY,TEAM,POINTS,CEREMONY,AWARD
-4-Nov,Matthew,Libatique,CINEMATOGRAPHY,Jennifer Richards,4,HFA,Cinematography
-4-Nov,Justin,Hurwitz,SCORE,Jamie and Matt Gregg,4,HFA,Film Composer
-4-Nov,Tom,Cross,EDITOR,Ally and Chris Singh,4,HFA,Editor
-4-Nov,,Avengers: Infinity War,VISUAL EFFECTS,Nicole Timmons and Cory Hudson,4,HFA,Visual Effects
-4-Nov,Sandy,Powell,COSTUME DESIGN,Joshua Bates,4,HFA,Costume Design
-4-Nov,,Mary Queen of Scots,MAKEUP,Free Agent,4,HFA,Makeup & Hair Styling
-4-Nov,Hannah,Beachler,PRODUCTION DESIGN,Ally and Chris Singh,4,HFA,Production Design
-30-Oct,,Incredibles 2,ANIMATED,Rachel Sloan,4,HFA,Animated
-30-Oct,,Black Panther,PICTURE,Jeff Lemmons,4,HFA,Hollywood Film Award
-25-Oct,,Believer,DOCUMENTARY,Free Agent,4,HFA,Best Documentary
-23-Oct,Peter,Farrelly,DIRECTOR SCREENPLAY,Jamie and Matt Gregg,4,HFA,Best Screenwriter
-23-Oct,,Green Book,PICTURE,Rachel Sloan,4,HFA,Best Ensemble
-23-Oct,Brian Hayes,Currie,SCREENPLAY,Jamie and Matt Gregg,4,HFA,Best Screenwriter
-23-Oct,Nick,Vallelonga,SCREENPLAY,Free Agent,4,HFA,Best Screenwriter
-20-Oct,Timothee,Chalamet,ACTOR,Ally and Chris Singh,4,HFA,Best Supporting Actor
-20-Oct,Hugh,Jackman,ACTOR,Free Agent,4,HFA,Best Actor
-20-Oct,John David,Washington,ACTOR,Free Agent,4,HFA,Breakout Actor
-20-Oct,Yalitza,Aparicio,ACTRESS,Ally and Chris Singh,4,HFA,New Hollywood
-20-Oct,Glenn,Close,ACTRESS,John Richards,4,HFA,Best Actress
-20-Oct,Amandla,Stenberg,ACTRESS,Free Agent,4,HFA,Breakout Actress
-20-Oct,Rachel,Weisz,ACTRESS,Rachel Sloan,4,HFA,Best Supporting Actress
-20-Oct,Damien,Chazelle,DIRECTOR,Nicole Timmons and Cory Hudson,4,HFA,Best Director
-20-Oct,Felix,Van Groeningen,DIRECTOR SCREENPLAY,Rachel Sloan,4,HFA,Breakout Director
-20-Oct,,Crazy Rich Asians,PICTURE,Free Agent,4,HFA,Breakout Ensemble
-18-Oct,Adam,Driver,ACTOR,Jennifer Richards,2,Gotham Nom,Best Actor
-18-Oct,Ben,Foster,ACTOR,Jeff Lemmons,2,Gotham Nom,Best Actor
-18-Oct,Richard E.,Grant,ACTOR,Rachel Sloan,2,Gotham Nom,Best Actor
-18-Oct,Lakeith,Stanfield,ACTOR,Free Agent,2,Gotham Nom,Best Actor
-18-Oct,Ethan,Hawke,ACTOR DIRECTOR SCREENPLAY,Ally and Chris Singh,2,Gotham Nom,Best Actor
-18-Oct,Yalitza,Aparicio,ACTRESS,Ally and Chris Singh,2,Gotham Nom,Breakthrough Actor
-18-Oct,Glenn,Close,ACTRESS,John Richards,2,Gotham Nom,Best Actress
-18-Oct,Toni,Colette,ACTRESS,Free Agent,2,Gotham Nom,Breakthrough Actor
-18-Oct,Olivia,Colman,ACTRESS,Amanda and Andrew Dau,4,Gotham Nom,Best Ensemble
-18-Oct,Elsie,Fisher,ACTRESS,Free Agent,2,Gotham Nom,Breakthrough Actor
-18-Oct,Kathryn,Hahn,ACTRESS,Free Agent,2,Gotham Nom,Best Actress
-18-Oct,Regina,Hall,ACTRESS,Free Agent,2,Gotham Nom,Best Actress
-18-Oct,Helena,Howard,ACTRESS,Free Agent,2,Gotham Nom,Breakthrough Actor
-18-Oct,KiKi,Layne,ACTRESS,Nicole Timmons and Cory Hudson,2,Gotham Nom,Breakthrough Actor
-18-Oct,Thomasin,McKenzie,ACTRESS,Free Agent,2,Gotham Nom,Breakthrough Actor
-18-Oct,Michelle,Pfeiffer,ACTRESS,Free Agent,2,Gotham Nom,Best Actress
-18-Oct,Emma,Stone,ACTRESS,Jennifer Richards,4,Gotham Nom,Best Ensemble
-18-Oct,Rachel,Weisz,ACTRESS,Rachel Sloan,4,Gotham Nom,Best Ensemble
-18-Oct,Boots,Riley,DIRECTOR SCORE SCREENPLAY,Free Agent,2,Gotham Nom,Breakthrough Director
-18-Oct,Ari,Aster,DIRECTOR SCREENPLAY,Free Agent,2,Gotham Nom,Breakthrough Director
-18-Oct,Andrew,Bujalski,DIRECTOR SCREENPLAY,Free Agent,2,Gotham Nom,Best Screenplay
-18-Oct,Bo,Burnham,DIRECTOR SCREENPLAY,Free Agent,2,Gotham Nom,Breakthrough Director
-18-Oct,Cory,Finley,DIRECTOR SCREENPLAY,Free Agent,2,Gotham Nom,Best Screenplay
-18-Oct,Jennifer,Fox,DIRECTOR SCREENPLAY,Free Agent,2,Gotham Nom,Breakthrough Director
-18-Oct,Tamara,Jenkins,DIRECTOR SCREENPLAY,Free Agent,2,Gotham Nom,Best Screenplay
-18-Oct,Crystal,Moselle,DIRECTOR SCREENPLAY,Free Agent,2,Gotham Nom,Breakthrough Director
-18-Oct,Paul,Schrader,DIRECTOR SCREENPLAY,Free Agent,2,Gotham Nom,Best Screenplay
-18-Oct,,Bisbee '17,DOCUMENTARY,Free Agent,2,Gotham Nom,Best Documentary
-18-Oct,,Hale County This Morning This Evening,DOCUMENTARY,Free Agent,2,Gotham Nom,Best Documentary
-18-Oct,,Minding the Gap,DOCUMENTARY,Amanda and Andrew Dau,2,Gotham Nom,Best Documentary
-18-Oct,,Shirkers,DOCUMENTARY,Free Agent,2,Gotham Nom,Best Documentary
-18-Oct,,Won't You Be My Neighbor?,DOCUMENTARY,John Richards,2,Gotham Nom,Best Documentary
-18-Oct,,First Reformed,PICTURE,Free Agent,2,Gotham Nom,Best Feature
-18-Oct,,If Beale Street Could Talk,PICTURE,Anthony Fischer,2,Gotham Nom,Best Feature
-18-Oct,,Madeline's Madeline,PICTURE,Free Agent,2,Gotham Nom,Best Feature
-18-Oct,,The Favourite,PICTURE,Ally and Chris Singh,2,Gotham Nom,Best Feature
-18-Oct,,The Favourite,PICTURE,Ally and Chris Singh,4,Gotham Nom,Best Ensemble
-18-Oct,,The Rider,PICTURE,Free Agent,2,Gotham Nom,Best Feature
-18-Oct,Deborah,Davis,SCREENPLAY,Rachel Sloan,2,Gotham Nom,Best Screenplay
-18-Oct,Tony,McNamara,SCREENPLAY,Nicole Timmons and Cory Hudson,2,Gotham Nom,Best Screenplay
-,,,,Joshua Bates,0,,
+Date,FIRST,LAST,CATEGORY,TEAM,STATUS,POINTS,CEREMONY,AWARD
+16-Nov,,Eighth Grade,PICTURE,Anthony Fischer,Bench,2,Ind Spirit,Best Feature
+16-Nov,,First Reformed,PICTURE,Nicole Timmons and Cory Hudson,Bench,2,Ind Spirit,Best Feature
+16-Nov,,If Beale Street Could Talk,PICTURE,Anthony Fischer,,2,Ind Spirit,Best Feature
+16-Nov,,Leave No Trace,PICTURE,John Richards,,2,Ind Spirit,Best Feature
+16-Nov,,You Were Never Really Here,PICTURE,Free Agent,Bench,2,Ind Spirit,Best Feature
+16-Nov,,Hereditary,PICTURE,Free Agent,Bench,2,Ind Spirit,Best First Feature
+16-Nov,,Sorry to Bother You,PICTURE,Free Agent,Bench,2,Ind Spirit,Best First Feature
+16-Nov,,The Tale,PICTURE,Free Agent,Bench,2,Ind Spirit,Best First Feature
+16-Nov,,We the Animals,PICTURE,Free Agent,Bench,2,Ind Spirit,Best First Feature
+16-Nov,,Wildlife,PICTURE,Jamie and Matt Gregg,,2,Ind Spirit,Best First Feature
+16-Nov,Ari,Aster,DIRECTOR SCREENPLAY,Joshua Bates,Bench,2,Ind Spirit,Best First Feature
+16-Nov,Boots,Riley,DIRECTOR SCORE SCREENPLAY,Ally and Chris Singh,Bench,2,Ind Spirit,Best First Feature
+16-Nov,Jennifer,Fox,DIRECTOR SCREENPLAY,Free Agent,Bench,2,Ind Spirit,Best First Feature
+16-Nov,Jeremiah,Zagar,DIRECTOR SCREENPLAY,Free Agent,Bench,2,Ind Spirit,Best First Feature
+16-Nov,Paul,Dano,DIRECTOR SCREENPLAY,Free Agent,Bench,2,Ind Spirit,Best First Feature
+16-Nov,Paul,Schrader,DIRECTOR SCREENPLAY,Jeff Lemmons,Bench,2,Ind Spirit,Best Director
+16-Nov,Barry,Jenkins,DIRECTOR SCREENPLAY,Jennifer Richards,,2,Ind Spirit,Best Director
+16-Nov,Debra,Granik,DIRECTOR SCREENPLAY,Free Agent,Bench,2,Ind Spirit,Best Director
+16-Nov,Tamara,Jenkins,DIRECTOR SCREENPLAY,Free Agent,Bench,2,Ind Spirit,Best Director
+16-Nov,Lynne,Ramsay,DIRECTOR SCREENPLAY,Free Agent,Bench,2,Ind Spirit,Best Director
+16-Nov,Quinn,Shephard,ACTRESS DIRECTOR SCREENPLAY,Free Agent,Bench,2,Ind Spirit,Best First Screenplay
+16-Nov,Bo,Burnham,DIRECTOR SCREENPLAY,John Richards,,2,Ind Spirit,Best First Screenplay
+16-Nov,Christina,Choe,DIRECTOR SCREENPLAY,Free Agent,Bench,2,Ind Spirit,Best First Screenplay
+16-Nov,Jennifer,Fox,DIRECTOR SCREENPLAY,Free Agent,Bench,2,Ind Spirit,Best First Screenplay
+16-Nov,Cory,Finley,DIRECTOR SCREENPLAY,Free Agent,Bench,2,Ind Spirit,Best First Screenplay
+16-Nov,Nicole,Holofcener,DIRECTOR SCREENPLAY,Anthony Fischer,,2,Ind Spirit,Best Screenplay
+16-Nov,Jeff,Whitty,SCREENPLAY,Amanda and Andrew Dau,,2,Ind Spirit,Best Screenplay
+16-Nov,Wash,Westmoreland,DIRECTOR SCREENPLAY,Free Agent,Bench,2,Ind Spirit,Best Screenplay
+16-Nov,Richard,Glatzer,SCREENPLAY,Free Agent,Bench,2,Ind Spirit,Best Screenplay
+16-Nov,Rebecca,Lenkiewicz,SCREENPLAY,Free Agent,Bench,2,Ind Spirit,Best Screenplay
+16-Nov,Paul,Schrader,DIRECTOR SCREENPLAY,Jeff Lemmons,Bench,2,Ind Spirit,Best Screenplay
+16-Nov,Tamara,Jenkins,DIRECTOR SCREENPLAY,Free Agent,Bench,2,Ind Spirit,Best Screenplay
+16-Nov,Boots,Riley,DIRECTOR SCREENPLAY,Ally and Chris Singh,Bench,2,Ind Spirit,Best Screenplay
+16-Nov,Elsie,Fisher,ACTRESS,Ally and Chris Singh,Bench,2,Ind Spirit,Best Female Lead
+16-Nov,Toni,Collette,ACTRESS,Joshua Bates,Bench,2,Ind Spirit,Best Female Lead
+16-Nov,Helena,Howard,ACTRESS,Free Agent,Bench,2,Ind Spirit,Best Female Lead
+16-Nov,Regina,Hall,ACTRESS,Jeff Lemmons,Bench,2,Ind Spirit,Best Female Lead
+16-Nov,Glenn,Close,ACTRESS,John Richards,,2,Ind Spirit,Best Female Lead
+16-Nov,Carey,Mulligan,ACTRESS,Free Agent,Bench,2,Ind Spirit,Best Female Lead
+16-Nov,Daveed,Diggs,ACTOR SCREENPLAY,Free Agent,Bench,2,Ind Spirit,Best Male Lead
+16-Nov,Ethan,Hawke,ACTOR DIRECTOR SCREENPLAY,Ally and Chris Singh,,2,Ind Spirit,Best Male Lead
+16-Nov,John,Cho,ACTOR,Free Agent,Bench,2,Ind Spirit,Best Male Lead
+16-Nov,Christian,Malheiros,ACTOR,Free Agent,Bench,2,Ind Spirit,Best Male Lead
+16-Nov,Joaquin,Phoenix,ACTOR,Free Agent,Bench,2,Ind Spirit,Best Male Lead
+16-Nov,Adam,Driver,ACTOR,Jennifer Richards,,2,Ind Spirit,Best Supporting Male
+16-Nov,Richard E.,Grant,ACTOR,Rachel Sloan,,2,Ind Spirit,Best Supporting Male
+16-Nov,Josh,Hamilton,ACTOR,Free Agent,Bench,2,Ind Spirit,Best Supporting Male
+16-Nov,John David,Washington,ACTOR,John Richards,,2,Ind Spirit,Best Supporting Male
+16-Nov,Raul,Castillo,ACTOR,Free Agent,Bench,2,Ind Spirit,Best Supporting Male
+16-Nov,Tyne,Daly,ACTRESS,Free Agent,Bench,2,Ind Spirit,Best Supporting Female
+16-Nov,Regina,King,ACTRESS,Ally and Chris Singh,,2,Ind Spirit,Best Supporting Female
+16-Nov,Thomasin,McKenzie,ACTRESS,Jennifer Richards,Bench,2,Ind Spirit,Best Supporting Female
+16-Nov,J.,Smith-Cameron,ACTRESS,Free Agent,Bench,2,Ind Spirit,Best Supporting Female
+16-Nov,Kayli,Carter,ACTRESS,Free Agent,Bench,2,Ind Spirit,Best Supporting Female
+16-Nov,Ashley,Connor,CINEMATOGRAPHY,Free Agent,Bench,2,Ind Spirit,Best Cinematography
+16-Nov,Benjamin,Loeb,CINEMATOGRAPHY,Free Agent,Bench,2,Ind Spirit,Best Cinematography
+16-Nov,Sayombhu,Mukdeeprom,CINEMATOGRAPHY,Free Agent,Bench,2,Ind Spirit,Best Cinematography
+16-Nov,Zak,Mulligan,CINEMATOGRAPHY,Free Agent,Bench,2,Ind Spirit,Best Cinematography
+16-Nov,Diego,Garcia,CINEMATOGRAPHY,Nicole Timmons and Cory Hudson,,2,Ind Spirit,Best Cinematography
+16-Nov,Nick,Fenton,EDITOR,Free Agent,Bench,2,Ind Spirit,Best Editing
+16-Nov,Chris,Gill,EDITOR,Free Agent,Bench,2,Ind Spirit,Best Editing
+16-Nov,Julian,Hart,EDITOR,Free Agent,Bench,2,Ind Spirit,Best Editing
+16-Nov,Nick,Houy,EDITOR,Free Agent,Bench,2,Ind Spirit,Best Editing
+16-Nov,Anne,Fabini,EDITOR,Free Agent,Bench,2,Ind Spirit,Best Editing
+16-Nov,Alex,Hall,EDITOR,Free Agent,Bench,2,Ind Spirit,Best Editing
+16-Nov,Gary,Levy,EDITOR,Free Agent,Bench,2,Ind Spirit,Best Editing
+16-Nov,Keiko,Deguchi,EDITOR,Free Agent,Bench,2,Ind Spirit,Best Editing
+16-Nov,Brian A.,Kates,EDITOR,Free Agent,Bench,2,Ind Spirit,Best Editing
+16-Nov,Joe,Bini,EDITOR,Free Agent,Bench,2,Ind Spirit,Best Editing
+16-Nov,,Burning,FOREIGN,Free Agent,Bench,2,Ind Spirit,Best International Film
+16-Nov,,Happy as Lazzaro,FOREIGN,Free Agent,Bench,2,Ind Spirit,Best International Film
+16-Nov,,Roma,FOREIGN,Amanda and Andrew Dau,,2,Ind Spirit,Best International Film
+16-Nov,,Shoplifters,FOREIGN,Free Agent,Bench,2,Ind Spirit,Best International Film
+16-Nov,,The Favourite,PICTURE,Ally and Chris Singh,,2,Ind Spirit,Best International Film
+16-Nov,,Hale County This Morning This Evening,DOCUMENTARY,Jamie and Matt Gregg,,2,Ind Spirit,Best Documentary
+16-Nov,,Minding the Gap,DOCUMENTARY,Amanda and Andrew Dau,,2,Ind Spirit,Best Documentary
+16-Nov,,Of Fathers and Sons,DOCUMENTARY,Free Agent,Bench,2,Ind Spirit,Best Documentary
+16-Nov,,On Her Shoulders,DOCUMENTARY,Free Agent,Bench,2,Ind Spirit,Best Documentary
+16-Nov,,Shirkers,DOCUMENTARY,Nicole Timmons and Cory Hudson,Bench,2,Ind Spirit,Best Documentary
+16-Nov,,Won't You Be My Neighbor?,DOCUMENTARY,John Richards,,2,Ind Spirit,Best Documentary
+4-Nov,Matthew,Libatique,CINEMATOGRAPHY,Jennifer Richards,,4,HFA,Cinematography
+4-Nov,Justin,Hurwitz,SCORE,Jamie and Matt Gregg,,4,HFA,Film Composer
+4-Nov,Tom,Cross,EDITOR,Ally and Chris Singh,,4,HFA,Editor
+4-Nov,,Avengers: Infinity War,VISUAL EFFECTS,Nicole Timmons and Cory Hudson,,4,HFA,Visual Effects
+4-Nov,Sandy,Powell,COSTUME DESIGN,Joshua Bates,,4,HFA,Costume Design
+4-Nov,,Mary Queen of Scots,MAKEUP,Free Agent,Bench,4,HFA,Makeup & Hair Styling
+4-Nov,Hannah,Beachler,PRODUCTION DESIGN,Ally and Chris Singh,,4,HFA,Production Design
+30-Oct,,Incredibles 2,ANIMATED,Rachel Sloan,,4,HFA,Animated
+30-Oct,,Black Panther,PICTURE,Jeff Lemmons,,4,HFA,Hollywood Film Award
+25-Oct,,Believer,DOCUMENTARY,Free Agent,Bench,4,HFA,Best Documentary
+23-Oct,Peter,Farrelly,DIRECTOR SCREENPLAY,Jamie and Matt Gregg,,4,HFA,Best Screenwriter
+23-Oct,,Green Book,PICTURE,Rachel Sloan,,4,HFA,Best Ensemble
+23-Oct,Brian Hayes,Currie,SCREENPLAY,Jamie and Matt Gregg,,4,HFA,Best Screenwriter
+23-Oct,Nick,Vallelonga,SCREENPLAY,Free Agent,Bench,4,HFA,Best Screenwriter
+20-Oct,Timothee,Chalamet,ACTOR,Ally and Chris Singh,,4,HFA,Best Supporting Actor
+20-Oct,Hugh,Jackman,ACTOR,Free Agent,Bench,4,HFA,Best Actor
+20-Oct,John David,Washington,ACTOR,Free Agent,Bench,4,HFA,Breakout Actor
+20-Oct,Yalitza,Aparicio,ACTRESS,Ally and Chris Singh,,4,HFA,New Hollywood
+20-Oct,Glenn,Close,ACTRESS,John Richards,,4,HFA,Best Actress
+20-Oct,Amandla,Stenberg,ACTRESS,Free Agent,Bench,4,HFA,Breakout Actress
+20-Oct,Rachel,Weisz,ACTRESS,Rachel Sloan,,4,HFA,Best Supporting Actress
+20-Oct,Damien,Chazelle,DIRECTOR,Nicole Timmons and Cory Hudson,,4,HFA,Best Director
+20-Oct,Felix,Van Groeningen,DIRECTOR SCREENPLAY,Rachel Sloan,,4,HFA,Breakout Director
+20-Oct,,Crazy Rich Asians,PICTURE,Free Agent,Bench,4,HFA,Breakout Ensemble
+18-Oct,Adam,Driver,ACTOR,Jennifer Richards,,2,Gotham Nom,Best Actor
+18-Oct,Ben,Foster,ACTOR,Jeff Lemmons,,2,Gotham Nom,Best Actor
+18-Oct,Richard E.,Grant,ACTOR,Rachel Sloan,,2,Gotham Nom,Best Actor
+18-Oct,Lakeith,Stanfield,ACTOR,Free Agent,Bench,2,Gotham Nom,Best Actor
+18-Oct,Ethan,Hawke,ACTOR DIRECTOR SCREENPLAY,Ally and Chris Singh,,2,Gotham Nom,Best Actor
+18-Oct,Yalitza,Aparicio,ACTRESS,Ally and Chris Singh,,2,Gotham Nom,Breakthrough Actor
+18-Oct,Glenn,Close,ACTRESS,John Richards,,2,Gotham Nom,Best Actress
+18-Oct,Toni,Colette,ACTRESS,Free Agent,Bench,2,Gotham Nom,Breakthrough Actor
+18-Oct,Olivia,Colman,ACTRESS,Amanda and Andrew Dau,,4,Gotham Nom,Best Ensemble
+18-Oct,Elsie,Fisher,ACTRESS,Free Agent,Bench,2,Gotham Nom,Breakthrough Actor
+18-Oct,Kathryn,Hahn,ACTRESS,Free Agent,Bench,2,Gotham Nom,Best Actress
+18-Oct,Regina,Hall,ACTRESS,Free Agent,Bench,2,Gotham Nom,Best Actress
+18-Oct,Helena,Howard,ACTRESS,Free Agent,Bench,2,Gotham Nom,Breakthrough Actor
+18-Oct,KiKi,Layne,ACTRESS,Nicole Timmons and Cory Hudson,,2,Gotham Nom,Breakthrough Actor
+18-Oct,Thomasin,McKenzie,ACTRESS,Free Agent,Bench,2,Gotham Nom,Breakthrough Actor
+18-Oct,Michelle,Pfeiffer,ACTRESS,Free Agent,Bench,2,Gotham Nom,Best Actress
+18-Oct,Emma,Stone,ACTRESS,Jennifer Richards,,4,Gotham Nom,Best Ensemble
+18-Oct,Rachel,Weisz,ACTRESS,Rachel Sloan,,4,Gotham Nom,Best Ensemble
+18-Oct,Boots,Riley,DIRECTOR SCORE SCREENPLAY,Free Agent,Bench,2,Gotham Nom,Breakthrough Director
+18-Oct,Ari,Aster,DIRECTOR SCREENPLAY,Free Agent,Bench,2,Gotham Nom,Breakthrough Director
+18-Oct,Andrew,Bujalski,DIRECTOR SCREENPLAY,Free Agent,Bench,2,Gotham Nom,Best Screenplay
+18-Oct,Bo,Burnham,DIRECTOR SCREENPLAY,Free Agent,Bench,2,Gotham Nom,Breakthrough Director
+18-Oct,Cory,Finley,DIRECTOR SCREENPLAY,Free Agent,Bench,2,Gotham Nom,Best Screenplay
+18-Oct,Jennifer,Fox,DIRECTOR SCREENPLAY,Free Agent,Bench,2,Gotham Nom,Breakthrough Director
+18-Oct,Tamara,Jenkins,DIRECTOR SCREENPLAY,Free Agent,Bench,2,Gotham Nom,Best Screenplay
+18-Oct,Crystal,Moselle,DIRECTOR SCREENPLAY,Free Agent,Bench,2,Gotham Nom,Breakthrough Director
+18-Oct,Paul,Schrader,DIRECTOR SCREENPLAY,Free Agent,Bench,2,Gotham Nom,Best Screenplay
+18-Oct,,Bisbee '17,DOCUMENTARY,Free Agent,Bench,2,Gotham Nom,Best Documentary
+18-Oct,,Hale County This Morning This Evening,DOCUMENTARY,Free Agent,Bench,2,Gotham Nom,Best Documentary
+18-Oct,,Minding the Gap,DOCUMENTARY,Amanda and Andrew Dau,,2,Gotham Nom,Best Documentary
+18-Oct,,Shirkers,DOCUMENTARY,Free Agent,Bench,2,Gotham Nom,Best Documentary
+18-Oct,,Won't You Be My Neighbor?,DOCUMENTARY,John Richards,,2,Gotham Nom,Best Documentary
+18-Oct,,First Reformed,PICTURE,Free Agent,Bench,2,Gotham Nom,Best Feature
+18-Oct,,If Beale Street Could Talk,PICTURE,Anthony Fischer,,2,Gotham Nom,Best Feature
+18-Oct,,Madeline's Madeline,PICTURE,Free Agent,Bench,2,Gotham Nom,Best Feature
+18-Oct,,The Favourite,PICTURE,Ally and Chris Singh,,2,Gotham Nom,Best Feature
+18-Oct,,The Favourite,PICTURE,Ally and Chris Singh,,4,Gotham Nom,Best Ensemble
+18-Oct,,The Rider,PICTURE,Free Agent,Bench,2,Gotham Nom,Best Feature
+18-Oct,Deborah,Davis,SCREENPLAY,Rachel Sloan,,2,Gotham Nom,Best Screenplay
+18-Oct,Tony,McNamara,SCREENPLAY,Nicole Timmons and Cory Hudson,,2,Gotham Nom,Best Screenplay
+,,,,Joshua Bates,,0,,

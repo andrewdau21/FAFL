@@ -1,6 +1,7 @@
 # Define server logic required to draw a histogram ----
 server <- function(input, output) {
-  tempplays<-subset(dummyplays,dummyplays$TEAM != "Free Agent")
+  #tempplays<-subset(dummyplays,dummyplays$TEAM != "Free Agent")
+  tempplays<-subset(dummyplays,dummyplays$STATUS != "Bench")
   tempstandings<-aggregate(tempplays$POINTS,by=list(Team=tempplays$TEAM),FUN=sum)
   tempstandings<-tempstandings[order(tempstandings$x,decreasing = TRUE),]
   singh<-subset(dummylineups,dummylineups$TEAM=="Ally and Chris Singh")
